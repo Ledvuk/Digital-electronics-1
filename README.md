@@ -4,7 +4,8 @@
 
 1. [EDA demonstration link](https://www.edaplayground.com/x/nVJ6)
 2. EDA code:
-3.```library ieee;
+3. Code:
+```library ieee;
 use ieee.std_logic_1164.all;
 
 entity gates is
