@@ -1,9 +1,10 @@
 # Digital-electronics-1
 ## 01-gates
 1. NAND and NOR function modifications:
+
 [EDA link](https://www.edaplayground.com/x/nVJ6)
 EDA code:
-...library ieee;
+'''library ieee;
 use ieee.std_logic_1164.all;
 
 entity gates is
@@ -22,4 +23,4 @@ begin
     fun_o    <= ((not b_i) and a_i)or((not b_i) and (not c_i));
 	nand_o <= ((b_i nand b_i)nand a_i)nand((b_i nand b_i) nand (c_i nand c_i));
     nor_o  <= (((a_i nor a_i) nor b_i)nor(c_i nor b_i))nor(((a_i nor a_i) nor b_i)nor(c_i nor b_i));
-end architecture dataflow;...
+end architecture dataflow;'''
