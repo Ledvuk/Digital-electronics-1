@@ -24,6 +24,7 @@ begin
     fun_o    <= ((not b_i) and a_i)or((not b_i) and (not c_i));
 	nand_o <= ((b_i nand b_i)nand a_i)nand((b_i nand b_i) nand (c_i nand c_i));
     nor_o  <= (((a_i nor a_i) nor b_i)nor(c_i nor b_i))nor(((a_i nor a_i) nor b_i)nor(c_i nor b_i));
-end architecture dataflow;```
+end architecture dataflow;
+```
 4. Screenshot:
 
