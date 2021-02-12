@@ -28,7 +28,7 @@ begin
 end architecture dataflow;
 ```
 3. Screenshot:
-![alt text](https://github.com/Ledvuk/Digital-electronics-1/blob/main/Labs/01-gates/nand_nor.png)
+![alt text](https://github.com/Ledvuk/Digital-electronics-1/blob/main/nand_nor.png)
 
 ### Distribution function demonstration:
 1. [EDA demonstration link](https://www.edaplayground.com/x/9Hdu)
@@ -59,4 +59,4 @@ end architecture dataflow;
 
 ```
 3. Screenshot:
-![alt text](https://github.com/Ledvuk/Digital-electronics-1/blob/main/Labs/01-gates/distribution.png)
+![alt text](https://github.com/Ledvuk/Digital-electronics-1/blob/main/distribution.png)
