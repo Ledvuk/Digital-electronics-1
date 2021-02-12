@@ -26,4 +26,4 @@ begin
 end architecture dataflow;
 ```
 3. Screenshot:
-![alt text](https://github.com/Ledvuk/Digital-electronics-1/edit/main/Labs/01-gates/nand_nor.png)
+![alt text](https://github.com/Ledvuk/Digital-electronics-1/edit/blob/main/Labs/01-gates/nand_nor.png)
