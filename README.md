@@ -5,7 +5,8 @@
 
 1. [EDA demonstration link](https://www.edaplayground.com/x/nVJ6)
 2. EDA code:
-```library ieee;
+```
+library ieee;
 use ieee.std_logic_1164.all;
 
 entity gates is
@@ -32,7 +33,8 @@ end architecture dataflow;
 ### Distribution function demonstration:
 1. [EDA demonstration link](https://www.edaplayground.com/x/9Hdu)
 2. EDA code:
-```library ieee;
+```
+library ieee;
 use ieee.std_logic_1164.all;
 
 entity gates is
