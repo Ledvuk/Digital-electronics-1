@@ -4,7 +4,6 @@
 
 1. [EDA demonstration link](https://www.edaplayground.com/x/nVJ6)
 2. EDA code:
-3. Code:
 ```library ieee;
 use ieee.std_logic_1164.all;
 
@@ -26,5 +25,5 @@ begin
     nor_o  <= (((a_i nor a_i) nor b_i)nor(c_i nor b_i))nor(((a_i nor a_i) nor b_i)nor(c_i nor b_i));
 end architecture dataflow;
 ```
-4. Screenshot:
+3. Screenshot:
 
