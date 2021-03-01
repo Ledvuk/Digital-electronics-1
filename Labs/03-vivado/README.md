@@ -96,6 +96,8 @@ begin
 
 end architecture testbench;
 ```
+
 3. simulation output:
+
 ![alt text](https://github.com/Ledvuk/Digital-electronics-1/blob/main/Labs/03-vivado/sim1.png)
 
