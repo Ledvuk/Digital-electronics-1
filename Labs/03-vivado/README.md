@@ -2,7 +2,25 @@
 [Link to my github](https://github.com/Ledvuk/Digital-electronics-1/)
 ## 03-vivado
 ### Nexis board connections:
-![alt text](link here)
+
+| FPGA pin | component | FPGA pin | component |
+| --------:|:--------- | --------:|:--------- |
+|H17|LED0|J15|SW0|
+|K15|LED1|L16|SW1|
+|J13|LED2|M13|SW2|
+|N14|LED3|R15|SW3|
+|R18|LED4|R17|SW4|
+|V17|LED5|T18|SW5|
+|U17|LED6|U18|SW6|
+|U16|LED7|R13|SW7|
+|V16|LED8|T8|SW8|
+|T15|LED9|U8|SW9|
+|U14|LED10|R16|SW10|
+|T16|LED11|T13|SW11|
+|V15|LED12|H6|SW12|
+|V14|LED13|U12|SW13|
+|V12|LED14|U11|SW14|
+|V11|LED15|V10|SW15|
 
 ### 2 bit 4to1 multiplexer:
 
