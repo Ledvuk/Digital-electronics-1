@@ -99,3 +99,53 @@ end architecture testbench;
 3. simulation output:
 ![alt text](https://github.com/Ledvuk/Digital-electronics-1/blob/main/Labs/03-vivado/sim1.png)
 
+### Vivado tutorial:
+1. create a new project:
+![alt text](https://github.com/Ledvuk/Digital-electronics-1/blob/main/Labs/03-vivado/tutorial/vivado1.png)
+![alt text](https://github.com/Ledvuk/Digital-electronics-1/blob/main/Labs/03-vivado/tutorial/vivado2.png)
+
+2. choose the project name and directory:
+![alt text](https://github.com/Ledvuk/Digital-electronics-1/blob/main/Labs/03-vivado/tutorial/vivado3.png)
+
+3. choose this option:
+![alt text](https://github.com/Ledvuk/Digital-electronics-1/blob/main/Labs/03-vivado/tutorial/vivado4.png)
+
+4. create a new script file, make sure it's in VHDL format:
+![alt text](https://github.com/Ledvuk/Digital-electronics-1/blob/main/Labs/03-vivado/tutorial/vivado5.png)
+![alt text](https://github.com/Ledvuk/Digital-electronics-1/blob/main/Labs/03-vivado/tutorial/vivado6.png)
+![alt text](https://github.com/Ledvuk/Digital-electronics-1/blob/main/Labs/03-vivado/tutorial/vivado7.png)
+
+5. next you can add contraints and development board to use with your program:
+![alt text](https://github.com/Ledvuk/Digital-electronics-1/blob/main/Labs/03-vivado/tutorial/vivado8.png)
+![alt text](https://github.com/Ledvuk/Digital-electronics-1/blob/main/Labs/03-vivado/tutorial/vivado9.png)
+![alt text](https://github.com/Ledvuk/Digital-electronics-1/blob/main/Labs/03-vivado/tutorial/vivado10.png)
+
+6. next you can define a new device for your design here, or ca do so later manually:
+![alt text](https://github.com/Ledvuk/Digital-electronics-1/blob/main/Labs/03-vivado/tutorial/vivado11.png)
+
+7. we are greeted with the main working interface, the most important areas are highlighted here:
+![alt text](https://github.com/Ledvuk/Digital-electronics-1/blob/main/Labs/03-vivado/tutorial/vivado12.png)
+
+8. we will now add a testbench file to use with our design. Make sure it's named as "tb_" + your design file name:
+
+![alt text](https://github.com/Ledvuk/Digital-electronics-1/blob/main/Labs/03-vivado/tutorial/vivado13.png)
+![alt text](https://github.com/Ledvuk/Digital-electronics-1/blob/main/Labs/03-vivado/tutorial/vivado14.png)
+![alt text](https://github.com/Ledvuk/Digital-electronics-1/blob/main/Labs/03-vivado/tutorial/vivado15.png)
+![alt text](https://github.com/Ledvuk/Digital-electronics-1/blob/main/Labs/03-vivado/tutorial/vivado16.png)
+
+9. you can again define the testbench here, or later manually:
+![alt text](https://github.com/Ledvuk/Digital-electronics-1/blob/main/Labs/03-vivado/tutorial/vivado17.png)
+
+10. write your design and testbench code and hit save on both of them:
+![alt text](https://github.com/Ledvuk/Digital-electronics-1/blob/main/Labs/03-vivado/tutorial/vivado18.png)
+
+11. if done correctly it should be displayed in your directory tree as displayed here:
+![alt text](https://github.com/Ledvuk/Digital-electronics-1/blob/main/Labs/03-vivado/tutorial/vivado19.png)
+
+12. run a simulation, you can do this either from the left panel or as displayed here:
+![alt text](https://github.com/Ledvuk/Digital-electronics-1/blob/main/Labs/03-vivado/tutorial/vivado20.png)
+
+13. if all odne correctly you should be greeted with a simulation window like this:
+![alt text](https://github.com/Ledvuk/Digital-electronics-1/blob/main/Labs/03-vivado/tutorial/vivado21.png)
+
+14. simulation can be closed in the right corner with "x". Clear the simulation cache in the left panel afterwards.
