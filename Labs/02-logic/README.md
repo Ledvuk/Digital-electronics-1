@@ -11,7 +11,7 @@
 
 1. design.vhd:
 
-```
+```vhdl
 library ieee;
 use ieee.std_logic_1164.all;
 
@@ -40,7 +40,7 @@ end architecture Behavioral;
 ```
 
 2. testbench.vhd:
-```
+```vhdl
 library ieee;
 use ieee.std_logic_1164.all;
 
