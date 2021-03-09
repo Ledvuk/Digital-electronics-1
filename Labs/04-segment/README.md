@@ -267,7 +267,7 @@ end Behavioral;
 2. VHDL code:
 
 ```
-showed in the top.vhd above
+shown in the top.vhd above
 ```
 
 3. simulation screenshot:
