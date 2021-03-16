@@ -4,7 +4,7 @@
 ### Prepartion:
 1. FPGA Buttons:
 
-![alt text](https://github.com/Ledvuk/Digital-electronics-1/blob/main/Labs/05-counter/nr4.png)
+![alt text](https://github.com/Ledvuk/Digital-electronics-1/blob/main/Labs/05-counter/n4r.png)
 2. Clock period conversion table:
 
 |**Time**| **Clock periods** | **Clocl periods (HEX)** | **Clock periods (BIN)** |
@@ -194,4 +194,4 @@ end architecture Behavioral;
 
 
 2. block diagram (with 16 bit couter):
-![alt text](https://github.com/Ledvuk/Digital-electronics-1/blob/main/Labs/05-counter/block.png)
+![alt text](https://github.com/Ledvuk/Digital-electronics-1/blob/main/Labs/05-counter/block.jpg)
