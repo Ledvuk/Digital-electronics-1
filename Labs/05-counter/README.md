@@ -4,6 +4,7 @@
 ### Prepartion:
 1. FPGA Buttons:
 
+![alt text](https://github.com/Ledvuk/Digital-electronics-1/blob/main/Labs/05-counter/nr4.png)
 2. Clock period conversion table:
 
 |**Time**| **Clock periods** | **Clocl periods (HEX)** | **Clock periods (BIN)** |
