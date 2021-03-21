@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_driver_7seg_4digits_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="tb_driver_7seg_4digits" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="336501fs"></ZoomEndTime>
+      <Cursor1Time time="0fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="186"></NameColumnWidth>
+      <ValueColumnWidth column_width="79"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="11" />
+   <wvobject fp_name="/tb_driver_7seg_4digits/s_clk_100MHz" type="logic">
+      <obj_property name="ElementShortName">s_clk_100MHz</obj_property>
+      <obj_property name="ObjectShortName">s_clk_100MHz</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_driver_7seg_4digits/s_reset" type="logic">
+      <obj_property name="ElementShortName">s_reset</obj_property>
+      <obj_property name="ObjectShortName">s_reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_driver_7seg_4digits/s_data0" type="array">
+      <obj_property name="ElementShortName">s_data0[3:0]</obj_property>
+      <obj_property name="ObjectShortName">s_data0[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_driver_7seg_4digits/s_data1" type="array">
+      <obj_property name="ElementShortName">s_data1[3:0]</obj_property>
+      <obj_property name="ObjectShortName">s_data1[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_driver_7seg_4digits/s_data2" type="array">
+      <obj_property name="ElementShortName">s_data2[3:0]</obj_property>
+      <obj_property name="ObjectShortName">s_data2[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_driver_7seg_4digits/s_data3" type="array">
+      <obj_property name="ElementShortName">s_data3[3:0]</obj_property>
+      <obj_property name="ObjectShortName">s_data3[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_driver_7seg_4digits/s_dp_i" type="array">
+      <obj_property name="ElementShortName">s_dp_i[3:0]</obj_property>
+      <obj_property name="ObjectShortName">s_dp_i[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_driver_7seg_4digits/s_dp_o" type="logic">
+      <obj_property name="ElementShortName">s_dp_o</obj_property>
+      <obj_property name="ObjectShortName">s_dp_o</obj_property>
+      <obj_property name="CustomSignalColor">#E0FFFF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_driver_7seg_4digits/s_seg" type="array">
+      <obj_property name="ElementShortName">s_seg[6:0]</obj_property>
+      <obj_property name="ObjectShortName">s_seg[6:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+      <wvobject fp_name="/tb_driver_7seg_4digits/s_seg[6]" type="logic">
+         <obj_property name="ElementShortName">[6]</obj_property>
+         <obj_property name="ObjectShortName">[6]</obj_property>
+         <obj_property name="CustomSignalColor">#FF0000</obj_property>
+         <obj_property name="UseCustomSignalColor">true</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_driver_7seg_4digits/s_seg[5]" type="logic">
+         <obj_property name="ElementShortName">[5]</obj_property>
+         <obj_property name="ObjectShortName">[5]</obj_property>
+         <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+         <obj_property name="UseCustomSignalColor">true</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_driver_7seg_4digits/s_seg[4]" type="logic">
+         <obj_property name="ElementShortName">[4]</obj_property>
+         <obj_property name="ObjectShortName">[4]</obj_property>
+         <obj_property name="CustomSignalColor">#FFA500</obj_property>
+         <obj_property name="UseCustomSignalColor">true</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_driver_7seg_4digits/s_seg[3]" type="logic">
+         <obj_property name="ElementShortName">[3]</obj_property>
+         <obj_property name="ObjectShortName">[3]</obj_property>
+         <obj_property name="CustomSignalColor">#0000FF</obj_property>
+         <obj_property name="UseCustomSignalColor">true</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_driver_7seg_4digits/s_seg[2]" type="logic">
+         <obj_property name="ElementShortName">[2]</obj_property>
+         <obj_property name="ObjectShortName">[2]</obj_property>
+         <obj_property name="CustomSignalColor">#FFFF00</obj_property>
+         <obj_property name="UseCustomSignalColor">true</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_driver_7seg_4digits/s_seg[1]" type="logic">
+         <obj_property name="ElementShortName">[1]</obj_property>
+         <obj_property name="ObjectShortName">[1]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_driver_7seg_4digits/s_seg[0]" type="logic">
+         <obj_property name="ElementShortName">[0]</obj_property>
+         <obj_property name="ObjectShortName">[0]</obj_property>
+         <obj_property name="CustomSignalColor">#00FFFF</obj_property>
+         <obj_property name="UseCustomSignalColor">true</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="/tb_driver_7seg_4digits/s_dig" type="array">
+      <obj_property name="ElementShortName">s_dig[3:0]</obj_property>
+      <obj_property name="ObjectShortName">s_dig[3:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_driver_7seg_4digits/c_CLK_100MHZ_PERIOD" type="other">
+      <obj_property name="ElementShortName">c_CLK_100MHZ_PERIOD</obj_property>
+      <obj_property name="ObjectShortName">c_CLK_100MHZ_PERIOD</obj_property>
+   </wvobject>
+</wave_config>
