@@ -436,7 +436,7 @@ p_reset_gen : process
 ![alt text](https://github.com/Ledvuk/Digital-electronics-1/blob/main/Labs/07-ffs/d_arst.png)
 
 11. p_d_ff_rst simulation
-![alt text](https://github.com/Ledvuk/Digital-electronics-1/blob/main/Labs/07-ffs/d_rst.png)
+![alt text](https://github.com/Ledvuk/Digital-electronics-1/blob/main/Labs/07-ffs/d_rset.png)
 
 12. p_t_ff_rst simulation
 ![alt text](https://github.com/Ledvuk/Digital-electronics-1/blob/main/Labs/07-ffs/t_rst.png)
