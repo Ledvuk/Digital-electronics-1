@@ -1,0 +1,14 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/Ivan/Documents/Digital-electronics-1/Labs/07-ffs/flip_flops/flip_flops.srcs/sources_1/new/d_ff_arst.vhd,1617118554,vhdl,C:/Users/Ivan/Documents/Digital-electronics-1/Labs/07-ffs/flip_flops/flip_flops.srcs/sources_1/new/tb_d_ff_arst.vhd,,,d_ff_arst,,,,,,,,
+C:/Users/Ivan/Documents/Digital-electronics-1/Labs/07-ffs/flip_flops/flip_flops.srcs/sources_1/new/d_ff_rst.vhd,1617118461,vhdl,C:/Users/Ivan/Documents/Digital-electronics-1/Labs/07-ffs/flip_flops/flip_flops.srcs/sources_1/new/tb_d_ff_rst.vhd,,,d_ff_rst,,,,,,,,
+C:/Users/Ivan/Documents/Digital-electronics-1/Labs/07-ffs/flip_flops/flip_flops.srcs/sources_1/new/d_latch.vhd,1617116257,vhdl,C:/Users/Ivan/Documents/Digital-electronics-1/Labs/07-ffs/flip_flops/flip_flops.srcs/sources_1/new/tb_d_latch.vhd,,,d_latch,,,,,,,,
+C:/Users/Ivan/Documents/Digital-electronics-1/Labs/07-ffs/flip_flops/flip_flops.srcs/sources_1/new/jk_ff_rst.vhd,1617122336,vhdl,C:/Users/Ivan/Documents/Digital-electronics-1/Labs/07-ffs/flip_flops/flip_flops.srcs/sources_1/new/tb_jk_ff_rst.vhd,,,jk_ff_rst,,,,,,,,
+C:/Users/Ivan/Documents/Digital-electronics-1/Labs/07-ffs/flip_flops/flip_flops.srcs/sources_1/new/t_ff_rst.vhd,1617118441,vhdl,C:/Users/Ivan/Documents/Digital-electronics-1/Labs/07-ffs/flip_flops/flip_flops.srcs/sources_1/new/tb_t_ff_rst.vhd,,,t_ff_rst,,,,,,,,
+C:/Users/Ivan/Documents/Digital-electronics-1/Labs/07-ffs/flip_flops/flip_flops.srcs/sources_1/new/tb_d_ff_arst.vhd,1617121115,vhdl,,,,tb_d_ff_arst,,,,,,,,
+C:/Users/Ivan/Documents/Digital-electronics-1/Labs/07-ffs/flip_flops/flip_flops.srcs/sources_1/new/tb_d_ff_rst.vhd,1617120628,vhdl,,,,tb_d_ff_rst,,,,,,,,
+C:/Users/Ivan/Documents/Digital-electronics-1/Labs/07-ffs/flip_flops/flip_flops.srcs/sources_1/new/tb_d_latch.vhd,1617116316,vhdl,,,,tb_d_latch,,,,,,,,
+C:/Users/Ivan/Documents/Digital-electronics-1/Labs/07-ffs/flip_flops/flip_flops.srcs/sources_1/new/tb_jk_ff_rst.vhd,1617122148,vhdl,,,,tb_jk_ff_rst,,,,,,,,
+C:/Users/Ivan/Documents/Digital-electronics-1/Labs/07-ffs/flip_flops/flip_flops.srcs/sources_1/new/tb_t_ff_rst.vhd,1617121501,vhdl,,,,tb_t_ff_rst,,,,,,,,

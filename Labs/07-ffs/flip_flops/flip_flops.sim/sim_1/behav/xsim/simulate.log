@@ -1,0 +1,8 @@
+Vivado Simulator 2020.2
+Time resolution is 1 ps
+Note: Stimulus process started
+Time: 0 ps  Iteration: 0  Process: /tb_jk_ff_rst/p_stimulus  File: C:/Users/Ivan/Documents/Digital-electronics-1/Labs/07-ffs/flip_flops/flip_flops.srcs/sources_1/new/tb_jk_ff_rst.vhd
+Error: Error
+Time: 0 ps  Iteration: 0  Process: /tb_jk_ff_rst/p_stimulus  File: C:/Users/Ivan/Documents/Digital-electronics-1/Labs/07-ffs/flip_flops/flip_flops.srcs/sources_1/new/tb_jk_ff_rst.vhd
+Note: Stimulus process finished
+Time: 65 ns  Iteration: 0  Process: /tb_jk_ff_rst/p_stimulus  File: C:/Users/Ivan/Documents/Digital-electronics-1/Labs/07-ffs/flip_flops/flip_flops.srcs/sources_1/new/tb_jk_ff_rst.vhd
