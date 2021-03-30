@@ -1,6 +1,6 @@
 # Digital-electronics-1 Matej Ledvina (221339)
 [Link to my github](https://github.com/Ledvuk/Digital-electronics-1/)
-## 06-display driver
+## 07-ffs
 ### Prepartion:
 
 | **clk** | **d** | **q(n)** | **q(n+1)** | **Comments** |
